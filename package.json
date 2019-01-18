@@ -1,0 +1,5 @@
+{
+    "name": "rvx-tslint-rules",
+    "version": "0.0.1",
+    "main": "rvx-tslint.json"
+}
