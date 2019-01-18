@@ -1,0 +1,2 @@
+# TSLintRules
+My TSLint Rules
